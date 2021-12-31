@@ -1,0 +1,2 @@
+public class karthik {
+}
